@@ -4,4 +4,4 @@ En este proyecto se exploró el uso de los algoritmos PCA y K-Means para agrupar
 
 - [Artículo completo](Reporte_Articulo_EMNH.pdf)
 - [Presentación resumen](analisis-avanzado-de-jugadores-en-la-bundesliga-utilizando-pca-y-clustering-k-means-2024-7-23-0-48-22.pdf)
-- [Artículo completo](Reporte_final.ipynb)
+- [Reporte de código](Reporte_final.ipynb)
